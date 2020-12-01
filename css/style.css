@@ -1,0 +1,32 @@
+	
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+body {font-family: 'Noto Serif KR', serif;}
+.bg{width: 100%; 
+	height: 100%; 
+	background-color: white;
+	position: absolute;}
+.img{width: 100%; 
+	height: 100%; 
+	position: absolute;}
+
+.t1{width: 1722px; height:114px; left: calc(50% - 861px); top: calc(10.387% - 57px); position: absolute;}
+.t2{width: 152px; height:110px; left: calc(52.64% - 76px); top: calc(32.676% - 55px); position: absolute;}
+.t3{width: 170px; height:110px; left: calc(64.84% - 85px); top: calc(34.76% - 55px); position: absolute;}
+.t4{width: 172px; height:132px; left: calc(77.452% - 86px); top: calc(38% - 66px); position: absolute;}
+.t5{width: 290px; height:26px; left: calc(12.359% - 145px); top: calc(93.037% - 13px); position: absolute;}
+
+.bread1{width: 322px; height:526px; top: calc(50.648% - 263px); left: calc(13.125% - 161px); position: absolute;}
+.bread2{width: 322px; height:526px; bottom: calc(30.18% - 263px); right: calc(11.71% - 161px); position: absolute;}
+.topping1{width: 225px; height:225px; left: calc(28.56% - 112.5px); top: calc(48.08% - 112.5px); position: absolute;}
+.topping2{width: 242px; height:242px; left: calc(23.896% - 121px); top: calc(70.89% - 121px); position: absolute;}
+.topping3{width: 186px; height:186px; left: calc(40.83% - 93px); top: calc(50.32% - 93px); position: absolute;}
+.topping4{width: 158px; height:158px; left: calc(37.43% - 79px); top: calc(68.47% - 79px); position: absolute;}
+.topping5{width: 190px; height:190px; left: calc(50.77% - 95px); top: calc(58.79% - 95px); position: absolute;}
+.topping6{width: 178px; height:178px; left: calc(54.56% - 89px); top: calc(65.613% - 89px); position: absolute;}
+.topping7{width: 182px; height:182px; left: calc(47.86% - 91px); top: calc(76.998% - 91px); position: absolute;}
+.topping8{width: 120px; height:120px; left: calc(56.91% - 60px); top: calc(87.88% - 60px); position: absolute;}
+.topping9{width: 268px; height:268px; left: calc(65.518% - 134px); top: calc(73.726% - 134px); position: absolute;}
+.topping10{width: 142px; height:142px; left: calc(64.06% - 71px); top: calc(64.25% - 71px); position: absolute;}
+.topping11{width: 230px; height:230px; left: calc(70.41% - 115px); top: calc(83.41% - 115px); position: absolute;}
+.topping12{width: 176px; height:176px; left: calc(74.316% - 88px); top: calc(60.05% - 88px); position: absolute;}
+
